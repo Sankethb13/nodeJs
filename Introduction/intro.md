@@ -21,3 +21,5 @@
     - 2014: "Fedor" developed similar version of node which is called io.js.
     - 2015: Nodejs foundation was formed and handled both nodejs and io.js
     - 2019: JS foundation + Nodejs foundation merged and actively handling node which is openJS Foundation.
+
+### Nodejs runs on Javascript V8 engine, which is built in C++ code.
